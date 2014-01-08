@@ -29,8 +29,8 @@
 
     <string-array name="entries_orientation_preference">
         <item>Автоматична</item>
-        <item>Пейзаж</item>
-        <item>Портрет</item>
+        <item>Пейзажна</item>
+        <item>Портретна</item>
     </string-array>
 
     <string-array name="entries_cursorblink_preference">
